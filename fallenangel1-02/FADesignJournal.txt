@@ -1,0 +1,429 @@
+Fallen Angel
+Design Journal
+
+"But Why" (The Decision)
+
+With LotC missions 19 and 20 still ahead, as well as Platinum edition and the entire third
+campaign, a lot of people, including me sometimes, may wonder why we spent all this time working
+on Fallen Angel instead.  Truth is, Joel (you know, the ultimate artist, Joel, co-creator of
+LotC) was extremely busy for a few weeks with his gig at Ethermoon, and doing some other
+miscellaneous tasks.  Since Missions 19 and 20 required a fair bit of graphics work from him, he
+asked me to work on a short mini-campaign to 'tide fans over' until he could chew out the 
+images.
+
+Well, needless to say that was a joke.  What was supposed to be a very simple bit of campaign
+work to tide people over became, almost a full blown campaign by itself, now boasting five
+missions with voice, music, portraits, and even a movie!  I entirely blame 'feature creep' for
+what happened by the way.  It just seemed cool to 'add' this feature or 'add' that feature,
+until we added so much, we had to add more, and more, and...well, you get the idea.
+
+Anyhow, with the decision to create the mini-campaign in hand, there had to be a concept.  What
+would it be about?  An event in the LotC universe?  A character?  Backstory?  It was a tough 
+call.
+
+***********************************************************************************************
+
+"Every Fruit has pits" (Concept)
+
+Concept is the foundation of any creative endeavor, at least I think so.  Summarize, in a single
+sentence, what the campaign is about.  I finally decided to base the mini-campaign around a
+character that was then unknown, named Ambrosia.  Having a vital role in the third campaign
+installment as well as appearing in mission 19, she was a logical choice.  Besides, I figured it
+would be the perfect opportunity to present exposition on the Keepers organization and Remus' 
+pirate clans (one of ConFed's domestic enemies) as well.
+
+So, the concept summary sentence became:  "The life and times of Janine Richter, aka Ambrosia."
+
+
+"It's not that you get there it's HOW you get there" Story:
+
+I've always preferred to let the story write itself.  I had some basic ideas in mind, such as
+that the first mission would involve Ambrosia when she was in the Confederation.  But as to 
+'why' she joined the Keepers, or how she ended up in mission 19, or what part the Keepers play in
+LotC, none of that was decided going in.
+
+As I laid out the maps, missions, and objectives, the storyline took shape on its own, and I
+became a backseat driver to the events that unfolded.  New characters emerged that I never would
+have imagined just sitting in my chair thinking about it.  Many times, I was as eager to see 
+what happens as someone just playing the game, and many a late hour went to discovering the plot 
+twists.
+
+There were no timelines, no outlines.  These devices, at least for me, constrict how I tell a
+story.  I don't like 'having' to adhere to an outline to ensure everything flows.  I prefer to
+just 'go with it' and see where it takes me.  In this case, the story rounded off very nicely,
+and adhered to the traditional literary five step program of "Introduction, Rising
+Action...etc..."  The story even answers questions players had asked us in e-mails and on the
+forums such as "Why did the Zerg attack Dionysus and rekindle the war with Earth" and "What
+happened to Mallock from LotC 1?"
+
+
+**********************************************************************************************
+
+"What's in a name?" (Characters Part 1)
+
+First and foremost, I wanted to avoid having any 'cliche' characters.  I didn't want the keepers
+to just be emotionless assassins, I didn't want bit characters (such as the base commander at
+Dionysus) to be a routine flight controllers or routine guards.  I wanted them to have 
+personality, something for the player to latch onto, or at the very least, something that makes 
+them seem 'alive.'
+
+The first step to avoiding cliche comes with names.  Take names like Prescott, Smith, John,
+James, Goldman, etc..., these are average names, easily forgotten.  Even for minor characters, 
+this is important.  Case in point, look at the character "Luke Skywalker" in Star Wars.  I don't 
+think anyone in the world has this name.  Luke is rare enough, but Skywalker?  Same with Han 
+Solo.
+
+Taking this one step further, the names should be representative of their character.  Again, Luke 
+Skywalker, you know, walking amongst the heavens, which he does, going from farmboy to Jedi 
+Knight throughout the course of the trilogy.  Same with Han Solo.  What was he?  A mercenary, a
+solo rider.  Great stuff.  I wanted to capture a similar essence when naming different 
+characters in Fallen Angel.
+
+The primary character, "Ambrosia" has two names.  "Angel" for when she is in ConFed (A guardian 
+angel, benevolent as an angel, a force of justice like the angel of heaven) to Ambrosia later on,
+which is "Nectar of the Gods" in greek mythology, indicating her narcissism as a result of 
+joining the Keepers.  (Notice her name is not derived from any words synonymous with "Evil" 
+however.  This was intentional, and reasons for it will be explained in LotC part 3.)  The Keeper
+"Stillwell" was named after Rob 'Stillwell' Morton of the "Cowboy" gang back in the wild west, a
+brutal killer responsible for more murders than Billy the Kid.  He was effective, but alienated
+much of the Cowboy group with his brusque attitude.  The name Tank tries to embody that he's
+'tough' but dumb, all in one word.  Giovanni, leader of the Keepers has a name common in higher
+Mafia echelons (the Mafia being an organization that resembles the keepers in a lot of ways.)
+  
+Naming the Keepers individually was a big "IF".  I wasn't sure at the outset that the Keepers 
+would all be independent characters.  Originally, it would just be Ambrosia and four generic 
+Keepers.  In the end, because you'd be using the Keepers for four out of the five missions, it 
+became important to differentiate them from one another, so each evolved into a leading role.
+
+Keep in mind also that locations had relevant names.  Dionysus (the god of wine and 'partying'
+in greek mythology), was a play on words, as Dionysus was among the most boring, run-down, and
+un-exciting places in the Confederation (evidenced at the start of the level.)  Kinda
+something for the colonists to ridicule.  "Dionysus?  Yeah right."
+
+Ambrosia's ship is named "Sphinx" after the egyptian sphinx.  An enigma, mysterious.
+
+See if you can find the other name associations in the campaign.
+
+*********************************************************************************************
+
+"Personality Schmersonality" (Characters Part II)
+
+I wanted to avoid the cliche 'mindless serious assassin type' that people might expect from a
+group like the Keepers.  Television and gaming media is saturated with these.  Stone-cold
+assassins that have no feeling or emotion, like the Terminator but they're not robots they're
+people, so it's not nearly as cool.  
+
+I wanted to portray the Keepers as flawed characters (Stillwell annoys the group, Tank is slow in
+the head, Ambrosia is egocentric) but at the same time, portray them as ruthless and efficient
+killers, good at what they do, and unstoppable.  The fact they chit chat with each other between
+kills hopefully shows how little they care about human life, even less than one of those serious
+assassin types because to the Keepers, it's just a job, like taking out the trash or flipping 
+burgers.  They can do it with little or no concentration, and they do it well.  They'd tell a 
+joke to the group while putting a gun to someone's head and pulling the trigger, and they'd lay 
+out a deck of cards and play a game under heavy enemy fire because they are THAT confident in 
+their abilities.  It's a degree of apathy and power that can't be shown if the assassin is 
+stern-faced and serious all the time, and as such, is designed to make the Keepers even more 
+fearsome of a unit.
+
+Other characters are given unique personalities as well.  The Dionysus commanding officer, 
+Commander Reeves, is the grizzled, anti-bureaucratic hillbilly stuck in command of a backwater 
+refueling outpost, hating every minute of it.  Sergeant Meyers, Angel's best friend on Dionysus,
+hates ConFed security (he has two run-ins with them in that mission), and loses his cool and 
+'freezes' during the zerg invasion, indicating his inability to cope with a combat situation. 
+Remus (named after the legendary wolf 'Romulus' brother), pirate leader, doesn't say 'avast ye 
+matey' and 'arrr' but instead is a former ConFed captain gone renegade.  A security guard at the 
+pirate installation in mission 3 begs and pleads for his life before being killed, while another 
+at the station does not.  The Judicator in mission 3 and 4 hates Terrans.  
+
+Injecting every voiced character with a distinct personality was a big goal when making FA.  I 
+wanted no 'stock' characters.  (A stock character being someone that speaks or acts just as a 
+plot device, with no real motivation or characterization.  They're just 'extras.')  Every 
+character has a quirk, something to remember them by.  Whether people actually 'remember' them,
+that remains to be seen ;)
+
+********************************************************************************************
+
+"Darwinism at its finest" (Characters Part III)
+
+Characters are driven by the story.  As events unfold, it is the characters that must deal with
+them lest they be dealt with.  In the case of Fallen Angel, it was important to have the main
+characters evolve in some way.
+
+The leading character, Ambrosia, starts out as a loyal Confederation soldier, then, after being
+left to die by her own comrades in arms after helping them escape certain destruction, she
+snaps, and seeks vengeance on those that left her, murdering them and anyone that happened
+into her way.
+
+She further evolves (or degrades) into an assassin.  From a 'good guy' to 'killer bent on 
+vengeance' to 'cold-blooded killer of innocents.'  The different maps in the Fallen Angel 
+campaign show this gradual 'degradation' of Angel/Ambrosia's character.
+
+If the characters remain the same all the way through, then it's harder to relate to the story
+as no one is really 'affected' by it.  Characters MUST change as a result of the story.
+
+Using another example, Engineer Bill (Mission 1: Dionysus), whines several times about not
+having enough power cores for the colony, about having to work double shifts due to a lack
+of proper equipment and staff in engineering, and a general distaste for his job.  When the
+Zerg attack the colony though, he stuffs it and stays to the end, maintaining power to the
+colony so that everyone can evacuate rather than skipping out himself, even at the cost of 
+his own life.
+
+From 'whining discontent' to 'whining hero'.
+
+Every character in Fallen Angel that has more than a couple of voiced lines will show some
+degree of change as the story progresses.  See if you can figure out the rest.
+
+*******************************************************************************************
+
+"Does terrain need to look real?" (Level Design Part I)
+
+Yes it does.  Not to make the level 'more' realistic but to keep it from looking 'unrealistic.'
+Great care was taken in the terrain layout of each level.  When there are cliffs, you'll see no 
+straight edges, nothing is squared off.
+
+In installations, the wall tiles aren't just random (like the access panel or the oval windows
+that are available).  The tiles are all uniform, just walls.  The only place you'll see access
+panels are near doors or important areas.  The only place you'll see the oval windows are in
+the installation's living area.
+
+Same with Dionysus.  It's divided into four sections.  
+**A power section (with a lot of access panels on the structure walls) but no windows.  Also the
+trees in that area are more 'dead' than in other parts of the colony due to radiation from the 
+fusion generator inside.
+**"The colony and living" area has two parts connected by a bridge.  On one side is a 
+recreational area complete with a small shopping outlet and a 'park' of sorts, with lots of 
+trees and places for people to go relax.  The other is the living area, replete with lots of 
+doors and windows.  Much like side by side apartments.
+**The main section of the colony (where you mine minerals and find the teleporter hub), that's 
+dominated by the military since they have to keep track of who's coming in by land from a 
+neighboring outpost, and also to guard the teleporter hub and the resources supplies.
+**The launch area is on a high cliff area, with no living or recreational aspects.  Missile
+turrets are in a larger quantity here as this is where incoming ships land.
+
+Look at the asphalt in mission 2 during the flashback scenes.  For major Confederation centers
+you'll notice it's completely smooth, not a rough edge, pothole, or blemish anywhere.  But if
+you notice in the flashback to Detroit, Michigan, you'll see it's all messed up, with the road
+lumpy, the walls have broken glass, indicating that it's a seedy joint that Angel's walking into.
+
+The details are everything.  Again, most people probably won't even 'notice' the precision with
+which you build a level.  Many people won't notice that you only put windows in certain areas.
+But they WILL notice if you don't.  Some things people take for granted, they expect terrain to
+look real.  If it looks real, they likely won't notice it.  If it doesn't look real, they will
+notice it and it will detract them from the story.
+
+Real terrain helps immerse the player in the story.  As such, painstaking effort was made in
+the design of every level of Fallen Angel to create that level of realism.
+
+**********************************************************************************************
+
+"Doohickey, Whatchamacallit" (Level Design Part II -- Doodads)
+
+Doodads are as important if not moreso than the terrain design.  Once you design your terrain
+realistically, the doodads available in StarCraft give it life, much like furnishing a new
+apartment.  You need them.
+
+They can't just be placed anywhere however.  Their placement must make sense with the layout of
+the level.  You also have to make sure that the 'same' doodad is not used too much in one place
+or it will stick out.
+
+For example, in the Badlands terrain there are "4" live tree types.  You need to mix those
+together if more than one tree is visible on the screen, otherwise it will 'look' like a doodad
+instead of a tree and the player will notice that, detracting them from the story.
+
+Look at mission 2.  Notice on the part where you have to move from safe spot to safe spot, a lot
+of trees grow below the cliffs, but none grow on the cliffs because of the constant energy
+surges?  Look at the way the trees are arranged, especially at the back.  It's a forest, and it
+looks like a forest.  You even have that crashed derelict ship wreckage as signs that the pirates
+shot someone down that got too close to the outpost.
+
+Notice on level 2, trees grow around the smaller generators, but the larger one at the end emits
+so much radiation, trees wouldn't be able to survive.
+
+In installations you have floortraps.  Use them sparingly.  Either have them as part of a 'trap'
+room or have them only appear periodically.  Have them appear in sensible areas (just before a
+door for example.)  Traps at random just 'fill' space.  Better to do that with troops.
+
+If you're going to use a 'rock' doodad, make sure it's sensible where you put it.  If you're
+going to use a tree, should it be alive or dead?  Once you decide, how many will you put?  Is
+it sensible?  What is going on in that area?  Are there a lot of battles there?  If so, chances
+are no trees will be standing.
+
+Think about 'why' you put the doodads before you put them.  Once you put them, make sure that
+there's variety in which types you use. 
+
+Like with terrain, good doodad placement will go unnoticed by most players, but bad doodad 
+placement will be noticed by EVERY player.
+
+**********************************************************************************************
+
+"Bang you're dead" (Level Design Part III -- Objectives)
+
+By the time you design your level, you probably have a rough idea what's going ot happen where.
+You know what obstacles a player must overcome to reach certain points of the map.  If not,
+then you just need to think about a few things.
+
+When it comes to objectives, take the following into consideration:
+
+**Is the objective new or has it been done before?  If it's been done before, can you improve
+it in some way or throw on a twist?  (Example:  Build and destroy missions.  Every campaign
+loves these cause they're the easiest.  Computer AI takes away the need to trigger.  So, throw
+in a twist.  When your troops reach a certain part of the enemy base, and it looks like they're
+defeated (most likely the player has committed all of his/her troops to the fight at that 
+point), have a huge surprise attack levied against the player's base by the enemy's reinforce-
+ments.  Then the reinforcements take over the base and the player has to improvise and take
+it back.
+
+**Is the objective "FUN"?  This is a hard one because fun is many things to many people.  In the
+case of FA, some objectives are strictly (move your guys through dangerous areas by timing
+alone.)  This was a faux pas as StarCraft is an RTS game and people want to kill stuff.  In 
+version 1.02, while the player dodges this or that, they're also under attack by enemies, keeping
+the objectives unique, but more fun at the same time.
+
+**Is the objective 'challenging'?  Is a must.  How challenging is up to you.  The harder it is,
+the fewer players will be able to beat it on the first try.  (But it is important that EVERY
+challenge be beatable on the first try.  That means that a player that's paying attention MUST
+be able to win if they pay attention to onscreen instructions and objectives and strategy.) It's
+not fair to throw a surprise out of nowhere if a player goes to "Location X" because the player
+had no way of knowing it was bad.  But if you warn them first, and they go anyways, then it's
+their fault.  A good way to gauge challenge is to play the level yourself.  If it's 'hard' for
+you, the creator, it will be twice as hard for the player.  If it's easy for you, it will 
+probably be average for the first time player.
+
+**Is the objective 'paced'?  Players should not be able just to chill out and play a level at
+their own pace.  There's no tension there, and tension during a level really adds to the mood
+of your overall campaign.  Good things to have that add tension are "Countdowns", "Defend your
+base objectives", "Bosses," and "Chase Scenes."
+
+In Fallen Angel, I milked everything I could out of the objectives.  In Dionysus you've got some
+puzzles to solve, then, when the Zerg attack the colony, you have to worry about mining resources
+and building troops, evacuating civilians by moving them between teleporters, and defending four
+different parts of the colony, all without getting your hero, Angel, killed.  Later in the level,
+Angel and crew are chased by the Zerg, you have to solve a puzzle before the time runs out, and
+so on.
+
+There are "10" bosses in Fallen Angel total.  Bosses are big enemies that require unusual amounts
+of damage and attacks to be destroyed, while at the same time, they have special attack (usually
+triggers) that no normal enemy in StarCraft has.  This is probably too many as some bosses share
+attacks with others, but most are unique in their power and challenging.
+
+I also wanted the objectives to be scaled to the power of the Keepers.  The Keepers have
+unlimited energy, high hp, very powerful weapons, and they regenerate.  What can take on such
+a force?  Well the bosses for one are a match for them.  Also, in one level the keepers can't
+cloak due to radiation in the area, forcing them to be visible to hordes of enemies, making them
+vulnerable.  Forcing a player to deal with a vulnerability is among the greatest challenges you
+can throw at him/her.
+
+To sum up, the objectives in FA are many, stuff to keep the player busy, lots of stuff to kill,
+stuff to add tension, and a high challenge level.  Though people can use cheats, I implore you
+not too.  The level is not 'that' hard, and if you beat it legitamately, trust me, you earned ten
+pats on your back, because it's among the most difficult campaigns out there.
+
+********************************************************************************************
+
+"Lights, Camera, Action" (Special Visual FX)
+
+I wanted FA to have a new splash screen (thanks to Joel it has a truly awesome one.).  I wanted
+the Keepers to have new portraits (to be more immersive to the story.)  Again, thanks to Joel,
+they have kick-ass portraits.  There's also a new picture for some signs (Dionysus level), as
+well as new team colors (black) for the Keepers, new weapons for the Keepers (lasers), and a
+cool picture of Ambrosia on the campaign select screen.
+
+This stuff isn't 'necessary' to tell the story, but it helps, a lot.  Using Bliz's portraits will
+remind players of those characters.  It just detracts from the story is all.  I know that Joel
+and I debated about the Keeper helmets for awhile.  He wanted to render a helmet with the face
+of the person inside somewhat visible through the visor.  I wanted the visor to be completely
+mirrored so that no one could see in.  Much like Darth Vader in Star Wars, or the Stormtroopers,
+there's just something ominous about not seeing the face of a warrior.
+
+Special thanks to Joel for the awesome art and Quantam for compiling it in such a way that Fallen
+Angel appears polished and professional in its interactive presentation.
+
+**********************************************************************************************
+
+"Sound"s like hogwash to me (Special Audio FX)
+
+Probably the most time consuming aspect of designing Fallen Angel BY FAR was getting the
+necessary vocal and sound effects.  Throughout the entire campaign, there are more than
+500 voiced lines, and over 50 independent sound effects.  Let's start with the voices.
+
+First, for the voices I did, or people local to me did, we record the vocals on my microphone
+(Anitone 2001 -- XR-6 (A boom mic)), and then those files are saved onto the computer.  From
+there, a few minutes goes into getting the *hiss* out of the recording that results from air
+passing by the mic while we recorded the voice (air from a fan or air conditioner, or just
+air in general.).
+
+After that, the voice either needed to be altered, given a background, or both.  Let's look
+at the Keeper voice.  First, the voice is cleaned up as described above, then, because they're
+talking through a helmet mic, the voice had to sound 'tinny,' so a couple 'high-passes' were
+needed to remove the bass.  Next, sound effects.  The Keepers have three sound effects when
+they talk.  A breathing sound (unique to Fallen Angel), a humming sound behind that, and the
+sound of their mic clicking on and off at the beginning and end of them talking.
+
+So, from raw file to finished product, the average Keeper voice required between 8-2 minutes
+to edit properly.  Multiply that by about 300 lines voiced by the Keepers.  You're looking
+at about 2400-3600 minutes.  Boil that down to hours and you're looking at almost 48 hours of
+work for that alone.  That's 8 hours a day for six days.
+
+Take other voices in the campaign, like Commander Reeves.  He's got a flight controller
+background inserted in his speech, to give the feel that he's really in a control tower.  Angel's
+friend, Sergeant Meyers, has marine static in the background of his voice.  The Keeper Commanders
+have voices modulated entirely.  And the most difficult voice in the campaign, the Zerg 
+Cerebrate "ZUHL" has three separate recordings of his line pasted into one sound file, with each
+line altered independently from the rest.
+
+There is also the issue of Foley.  If a character is not in the room when talking to another
+character, they're talking over a mic or a video screen.  In either case, their voice will come
+through tinny.  Notice in the Dionysus level when Engineer Bill talks to the colony's
+com-controller.  Depending on where you (the player) are centered, one voice will be normal, and
+one will be tinny like it's talking through a mic into that room.  Then it could switch and
+it's the other guy talking over the transmitter so now 'he's' tinny.
+
+With sound effects, sometimes SC effects will do, but many times, as Fallen Angel is meant to
+play more like an interactive movie, you need the true sound of an explosion.  Computer beeps,
+fires, sparks flying, guns, alarms, all that stuff was added to various parts of Fallen Angel
+to enhance the playing atmosphere.
+
+**********************************************************************************************
+
+In summary, FA required hundreds of man-hours of work from all who participated.  Special thanks
+goes out especially to the crew without whom this campaign would not exist now.  The voice-actors
+musicians, and our artist Joel Steudler all transformed Fallen Angel into the polished product
+that it now is.
+
+A lot of the design work on this was fun, a lot was not.  A lot was 'work', and many times I
+would rather have put hot splinters under my pinky toe-nail than do work on the campaign
+(especially the voice editing).  But in the end, it's all worth it.  With version 1.01 having
+over 15,000 downloads on Fileplanet, we're pleased to have had the campaign played by so many.
+
+It is true though as Thomas Edison said, "Invention is 1% inspiration and 99% perspiration."  
+Don't forget it.
+
+**********************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

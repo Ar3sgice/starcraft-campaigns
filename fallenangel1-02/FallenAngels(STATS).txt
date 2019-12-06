@@ -1,0 +1,104 @@
+MISSION 1:
+**Briefing:
+
+TOTAL:   1.77 MB Uncompresed	41.23 Seconds of dialogue	(5) total WAV's.
+
+
+**In Game SPEECH:
+
+TOTAL:  34.04 MB Uncompressed	13:18 Minutes of Dialogue	(119) total WAV's
+
+
+**Music:
+
+TOTAL:  36.78 MB Uncompressed	14:13 Minutes of Music	(5) total WAV's
+
+****************************************************************************************
+MISSION 2  
+
+**In-Game SPEECH:
+
+TOTAL:  26.945 MB uncompressed  8.14 Minutes of dialogue (85) total WAV's
+
+
+**Music:
+
+TOTAL:  12.491 MB uncompressed  4.83 Minutes of music   (2) total WAV's
+
+****************************************************************************************
+MISSION 3:
+
+**Briefing:
+
+TOTAL:  1.96 MB uncompressed  46.65 seconds of dialogue  (1) total WAV
+
+
+**In-Game SPEECH:
+
+TOTAL:  24.246 MB uncompressed  9.54 Minutes of dialogue (104) total WAV's
+
+
+**Music:
+
+TOTAL:  14.112 MB uncompressed  5.48 Minutes of music (2) total WAV's
+
+****************************************************************************************
+MISSION 4: (Secret Level)
+
+**Briefing:
+
+TOTAL:  2.26 MB uncompressed  1.24 Minutes of dialogue (3) total WAV's
+
+
+**In-Game SPEECH:
+
+TOTAL:  22.734 MB uncompressed  8.76 Minutes of dialogue (65) total WAV's
+
+
+**Music:
+
+TOTAL:  28.76 MB uncompressed  10.22 Minutes of music (3) total WAV's
+
+****************************************************************************************
+MISSION 5:
+
+**In-Game Speech:
+
+TOTAL:  5.72 MB uncompressed  2.42 Minutes of dialogue (5) total WAV's
+
+
+**Music:
+
+TOTAL:  12.447 MB uncompressed  5.04 Minutes of music  (1) total WAV
+
+****************************************************************************************
+SOUND EFFECTS:
+
+TOTAL:  13.176 MB uncompressed  5.37 Minutes of FX total  (56) total WAV's
+
+****************************************************************************************
+NON-GAME MUSIC: (Title, Victory, Defeat, Briefing)
+
+TOTAL:  32.47 MB uncompressed  5.55 Minutes of music (4) total WAV's
+
+
+
+GRAND TOTALS:
+
+Mission Briefings (All Missions):
+5.99 MB uncompressed   2.84 Minutes of dialogue (9) Total WAVs
+
+In-Game Speech (All Missions): 
+113.69 MB uncompressed  42.04 Minutes of dialogue (378) Total WAVs
+
+In-Game Music (All Missions): 
+104.59 MB uncompressed  29.62 Minutes of music (13) Total WAVs
+
+Sound Effects (All Missions): 
+13.176 MB uncompressed  5.37 Minutes of FX total (56) total WAVs
+
+Non-Game Music:               
+32.47 MB uncompressed  5.55 Minutes of music (4) total WAV's
+
+
+ALL:  269.91 MB uncompressed   85.42 Minutes of Sound   (459) Total WAVs
